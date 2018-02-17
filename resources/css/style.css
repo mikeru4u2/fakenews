@@ -1,0 +1,18 @@
+
+/* Header */
+
+.container { display: inline-flex;
+  font-family: Verdana;
+    font-weight: bold;
+border-bottom: 3px solid black;
+justify-content: center;}
+
+
+ h2{margin: 20px;
+        color: aquamarine;}
+
+ul {color: black;
+   font-size: 12px
+  justify-content: flex-end;
+  margin-left: auto;
+}
