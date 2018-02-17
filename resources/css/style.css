@@ -1,7 +1,7 @@
 
 /* Header */
 
-.container { display: inline-flex;
+.header { display: flex;
   font-family: Verdana;
     font-weight: bold;
 border-bottom: 3px solid black;
