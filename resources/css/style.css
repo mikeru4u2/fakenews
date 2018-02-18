@@ -15,4 +15,16 @@ ul {color: black;
    font-size: 12px
   justify-content: flex-end;
   margin-left: auto;
+   padding: 10px;
 }
+.main-container{
+   display: flex;
+   border:1px solid black;
+}
+.large-container{display: flex;
+   width: 100px;
+ border: 1px solid black;}
+.medium-container{
+  display: flex;
+   width:35% ;
+ border: 1px solid black; }
