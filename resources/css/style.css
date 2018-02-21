@@ -172,6 +172,7 @@ header nav {
 
 .column.small {
   width: 240px;
+  flex-direction: column;
 }
 
 
@@ -196,11 +197,17 @@ img.cookie {
   font-family: "Verdana", sans-serif;
   font-size: 12px;
   color: dimgray;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 
 .bite span {
   padding-left: 11px;
+  background-color: WhiteSmoke;
+ font-family: Verdana;
+ font-size: 12px;
+ color: DimGray;
 }
 
 
