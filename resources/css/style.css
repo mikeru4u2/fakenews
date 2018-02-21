@@ -114,6 +114,7 @@ header nav {
   width: 1232px;
   margin: 0 auto 78px auto;
   padding-top: 116px;
+  justify-content: space-between;
 }
 
 
@@ -159,6 +160,7 @@ header nav {
 
 .column.medium {
   width: 300px;
+
 }
 
 .cat-ceo.image-content {
